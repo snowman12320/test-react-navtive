@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2291b589-5e56-4f3d-b56a-93be51edad16"
+      }
+    },
+    "owner": "snowman12320"
   }
 }
